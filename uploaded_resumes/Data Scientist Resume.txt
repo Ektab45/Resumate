@@ -1,0 +1,34 @@
+Jenny Smith 
+9876582345
+jenny@gmail.com
+
+Summary
+Passionate data scientist with 6 years of experience in different areas of data mining and statistical analysis. Fully qualified for applying machine learning techniques to real-world problems.
+
+Experience
+Data Scientist 
+Expert Computer Services                   04/2019 - Present
+Los Angeles , California
+Identified, designed and implemented a web scraping, data extraction and reporting service for the company that saved the company $100k annuallyTranslated multiple languages and prepared data for analysis in Excel spreadsheets, with the assistance of 7 translators and 6 support staffCreated a database of all published research, papers and presentations, increasing research output by 20%Collaborated with the lead researcher in a collaborative research project involving data science, applied mathematics and machine learningHelped the company implement new data mining techniques such as Bayesian network inference and neural network classification, resulting in a 30% increase in classification accuracyDeveloped an automated survey program for gaining feedback from customers, which resulted in a 10% increase in customer feedback volume.
+Data Scientist 
+I                   05/2017 
+Los Angeles , California
+Developed algorithms using machine learning and data mining techniques for data analysis and reportingCreated self-service tools for data analysis and reportingUtilized text analysis, frequency analysis and sentiment analysis to produce reports with 66% accuracyCreated a web application that reports on the current state of the IT infrastructure, allowing for easier maintenance and improvement of the systemCreated a business intelligence system for the company's performance and growthWorked with 3 other team members to create a data visualization tool for internal use
+Data Scientist 
+East-West Digital Data                   11/2015 
+Los Angeles , California
+Performed data analysis for studies related to sports, traffic and customer activationCreated infrastructure for data analysis, creating a new system to track daily metrics to analyze the effectiveness of sales channel strategiesCreated a process to track marketing campaigns and generate reports, increasing the effectiveness of marketing campaigns by 6% within a monthCreated a statistical model to predict brand performance based on consumer behaviorCreated a tool to identify new sales opportunities and measure the impact on sales, increasing revenue by $100kPerformed data analysis for a customer retention study, identifying 14% in-store customer satisfaction from a sample of 120 customersCreated a website to track daily sales metrics, determining weekly sales by category and generating reports on weekly sales
+
+Skills
+Regression Analysis
+Machine Learning
+Spark
+Sas
+Python
+Aws
+Ai
+
+Education
+Zirkel College                   Master's Degree in Computer Science 
+01/1970
+Los Angeles ,  California
